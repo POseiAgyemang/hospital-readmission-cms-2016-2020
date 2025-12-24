@@ -1,7 +1,6 @@
 library(tidyverse)
 library(dplyr)
 library(readxl)
-library(gtsummary)
 library(jtools)
 library(ggplot2)
 
